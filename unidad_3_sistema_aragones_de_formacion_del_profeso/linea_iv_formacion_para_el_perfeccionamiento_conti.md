@@ -11,5 +11,3 @@ Los ejes de formación que conforman esta línea son dos principalmente:
 *   Eje 1\. Desarrollo profesional adecuado al rol profesional: competencias   comunes y competencias específicas.
 *   Eje 2\. Desarrollo profesional a lo largo de la carrera docente: formación inicial, profesorado novel, formación permanente.
 *   Eje 3\. Desarrollo profesional asociado a las siguientes enseñanzas: la Formación Profesional, las Enseñanzas Artísticas, las Enseñanzas de Idiomas, las   Enseñanzas Deportivas, la Educación de Personas Adultas y las Escuelas Infantiles.
-
-###

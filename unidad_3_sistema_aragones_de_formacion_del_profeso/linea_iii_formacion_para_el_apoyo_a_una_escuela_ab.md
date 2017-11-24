@@ -6,8 +6,7 @@ La cultura organizativa de un centro educativo debe entenderse hoy desde una per
 
 La comunidad educativa debe integrar las voces de todos sus miembros en el proyecto educativo de centro, fomentando la participación y colaboración de todos los miembros de la comunidad educativa, concediendo especial relevancia al alumnado y al profesorado e impulsando la participación de las familias y de asociaciones de madres y padres, así como promoviendo la implicación de otros colectivos que de forma altruista, libre y voluntaria realizan actuaciones en el entorno del ámbito educativo.
 
-La transformación progresiva de los centros educativos en entornos colaborativos de aprendizaje pasa por atender el siguiente eje de formación:
+La transformación progresiva de los centros educativos en entornos colaborativos de aprendizaje pasa por atender los siguientes ejes de formación:
 
-                Eje 1\. Escuela abierta y participativa.
-
-Eje 2\. Atención a los centros con entorno de aprendizajes específicos.
+* Eje 1 . Escuela abierta y participativa.
+* Eje 2. Atención a los centros con entorno de aprendizajes específicos.

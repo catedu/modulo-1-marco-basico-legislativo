@@ -26,6 +26,4 @@ Línea IV. Formación para el perfeccionamiento continuo y capacitación profesi
 
 Cada una de estas líneas se desagrega en ejes formativos y objetivos más concretos,  agrupados en función de su naturaleza y contenido, de modo que establece líneas, ejes y contenidos, yendo de menor a mayor nivel de concreción.
 
-![](images/image1.png)[^a]
-
-[^a]:
+![](/images/image1.png)

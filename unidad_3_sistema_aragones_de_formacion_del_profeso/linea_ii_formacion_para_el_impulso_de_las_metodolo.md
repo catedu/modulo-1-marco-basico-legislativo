@@ -6,6 +6,6 @@ La Administración educativa aragonesa orientará las acciones formativas hacia 
 
 Esta línea se desarrollará mediante los siguientes dos ejes de formación:
 
-                Eje 1\. Metodologías activas de trabajo en el centro y en el aula.
+* Eje 1. Metodologías activas de trabajo en el centro y en el aula.
 
-                Eje 2\. Innovación e investigación educativa.
+* Eje 2. Innovación e investigación educativa.

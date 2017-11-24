@@ -6,12 +6,12 @@ La formación del profesorado debe partir de los contextos ordinarios de aprendi
 
 Esta línea se desarrollará mediante los siguientes cuatro ejes de formación:
 
-                Eje 1\. Planes de mejora y de formación de los centros educativos.
+* Eje 1. Planes de mejora y de formación de los centros educativos.
 
-                Eje 2\. Educación socioemocional.
+* Eje 2. Educación socioemocional.
 
-                Eje 3\. Actuaciones relacionadas con la convivencia y la igualdad, la educación inclusiva, la educación en valores, la creatividad y el desarrollo de capacidades.
+* Eje 3. Actuaciones relacionadas con la convivencia y la igualdad, la educación inclusiva, la educación en valores, la creatividad y el desarrollo de capacidades.
 
-                Eje 4\. La organización del currículo basado en las competencias clave.
+* Eje 4. La organización del currículo basado en las competencias clave.
 
-                Eje 5\. Destrezas básicas para la sociedad educativa actual: plurilingüismo, uso de las TIC y de las TAC y espíritu emprendedor.
+* Eje 5. Destrezas básicas para la sociedad educativa actual: plurilingüismo, uso de las TIC y de las TAC y espíritu emprendedor.

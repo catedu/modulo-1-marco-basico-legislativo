@@ -14,12 +14,3 @@ La normativa que regula actualmente la certificación y registro de las activida
 *   Define el registro de las actividades de formación permanente del profesorado tanto de oficio como a solicitud del interesado.
 *   Define la relación con las entidades colaboradoras y abre la posibilidad de establecer convenios en materia de formación.
 
-Incluyo la imagen para descargar un poco la vista de tanto texto
-
-He añadido la imagen asociada al enlace donde aparecen CIFEs y UFIs pero me parece que la información en educaragon está sin actualizar. Si la actualizarais avísame y cambio la imagen
-
-He quitado el enlace a Red de formación que ya estaba puesto más arriba donde tocaba y estaba duplicado
-
-Unidad 5
-
-añado  &quot;en la escuela&quot; al ajedrez
