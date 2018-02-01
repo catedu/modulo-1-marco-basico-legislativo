@@ -10,7 +10,9 @@ El Plan Marco Aragonés de Formación del Profesorado, desarrollando el Decreto 
 
 3\) **Centros de Innovación y Formación Educativa \(CIFE\) territoriales y Unidades de Formación e Innovación \(UFI\)**. Su ámbito de gestión está delimitado a los centros que atienden directamente. Los CIFE los integra un equipo pedagógico formado por la persona que lo dirige, asesores que actúan en un mismo CIFE ocupando asesorías y asesorías que actúan individualmente en un ámbito territorial asignado \(UFI\). Las plazas se cubren en comisión de servicios entre las personas que superan un proceso de concurrencia competitiva que se convoca cada año para cubrir las vacantes que resultan. Los CIFE territoriales se regulan por [ORDEN de 18 de julio de 2014](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D806518045050&sa=D&ust=1511515248800000&usg=AFQjCNGC1gZ5xwbMD1mLpMSa_ig026it4A), que se modifica por [ORDEN de 21 de mayo de 2015](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D859078705454&sa=D&ust=1511515248800000&usg=AFQjCNGwCRtmS7rd1a17tpEYpCTXyxYB4w). Atendiendo a estas órdenes se elaboran las convocatorias anuales de selección de asesores. El artículo 22 del mencionado Decreto 105/2013 recoge las funciones de los asesores. En la actualidad [estos son los CIFE territoriales](https://www.google.com/url?q=http://www.educaragon.org/arboles/arbol.asp?guiaeducativa%3D42%26strSeccion%3DA1A31%26lngArbol%3D1506&sa=D&ust=1511515248801000&usg=AFQjCNEtz348luE5DuDobOVpY0tIEo7WqQ) y las UFI que dependen de ellos:
 
-![](/images/image2.png)
+![](/assets/CIFES.png)
+![](/assets/cifes2.png)
+![](/assets/cifes3.png)
 
 4\) **CIFE específicos** y proyectos de formación. Son centros de ámbito autonómico  con un cometido concreto.
 
