@@ -2,8 +2,8 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
     "language": "es",
     "variables": {
-        "title": "",
-        "author": "",
+        "title": "Módulo 1: Marco básico legislativo",
+        "author": "Joaquín Conejo Fumanal",
         "collaborators": [
             { "name": ".", "edited": "" }
         ]
