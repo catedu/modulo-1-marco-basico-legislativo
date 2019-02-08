@@ -2,13 +2,15 @@
 
 El actual sistema aragonés de formación del profesorado se encuentra actualmente en revisión. No obstante, lo que toca es analizar el sistema actual y apuntar hacia donde pueden ir los cambios.
 
-El sistema aragonés se articula en el [DECRETO 105/2013,](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D739901605757&sa=D&ust=1511515248780000&usg=AFQjCNFbgytxdIGLw_E2SYPfEMWg8TM8YA) de 11 de junio.
+El sistema aragonés se articula en el [DECRETO 166/2018, de 18 de septiembre, del Gobierno de Aragón, por el que se regula la formación del profesorado de enseñanzas no universitarias que presta sus servicios en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Aragón](https://bit.ly/2SgTskC).
 
-En este Decreto además de desarrollar la finalidad de la formación se plantean  cuestiones sobre la planificación de la misma, la estructura de la red y su funcionamiento.
+En este Decreto además de desarrollar los principios y la finalidad de la formación se plantean  cuestiones sobre la planificación de la misma, la estructura de la red y su funcionamiento.
 
-Planificación (artículo 4). Se establecen como instrumentos de planificación:
 
-El Plan Marco Aragonés de Formación del Profesorado.
+
+En concreto se trata su planificación (artículo 7). Se establecen como instrumento de planificación:
+
+**El Plan Marco Aragonés de Formación del Profesorado.**
 
 Es un plan que abarca 4 años de implantación. El primer Plan Marco Aragonés de Formación del Profesorado fue aprobado por [ORDEN ECD 309/2016](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D903092365555&sa=D&ust=1511515248781000&usg=AFQjCNH9WSVkvt0YtnYBmvpCWtLhtUF7iA), de 18 de marzo. Como anécdota, una página salió mal maquetada en el BOA y se rectificó en una [CORRECCIÓN DE ERRORES.](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D904145225541&sa=D&ust=1511515248782000&usg=AFQjCNHFxfqNBVcR8qJ5eqzqlYbwV2Ldgg) Las líneas estratégicas de formación de este Plan Marco, tienen una clara vinculación con la innovación e investigación educativa, siendo el punto de partida de redes de trabajo entre equipos docentes y, en su caso, con las universidades o con los diferentes miembros de la comunidad educativa, como base de una mejora cualitativa de la educación.
 
@@ -25,5 +27,6 @@ Línea III. Formación para el apoyo a una escuela abierta y participativa
 Línea IV. Formación para el perfeccionamiento continuo y capacitación profesional docente
 
 Cada una de estas líneas se desagrega en ejes formativos y objetivos más concretos,  agrupados en función de su naturaleza y contenido, de modo que establece líneas, ejes y contenidos, yendo de menor a mayor nivel de concreción.
+
 
 ![](/images/image1.png)
