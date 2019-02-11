@@ -18,14 +18,14 @@ Atendiendo a estas órdenes se elaboran las convocatorias anuales de selección 
 ![](/assets/Selección_506.png)
 ![](/assets/Selección_507.png)
 
-4\) **Centros de profesorado específicos** y proyectos de formación. Son centros de ámbito autonómico  con un cometido concreto.
+5\) **Centros de profesorado específicos** y proyectos de formación. Son centros de ámbito autonómico  con un cometido concreto.
 
 * **Centro Aragonés de Tecnologías para la Educación**. \([CATEDU](https://www.google.com/url?q=http://web.catedu.es/webcatedu/&sa=D&ust=1511515248802000&usg=AFQjCNEKLV_XHnJvSZYHkIfNmUqHmoduMQ)\). Su cometido es dar soporte y asesoramiento tecnológico a la red de formación. Es el centro que organiza la formación online \(Aularagón\)  y otros servicios de soporte al profesorado, como aramoodle, wordpress…
 * **Centro de Innovación para la Formación Profesional de Aragón** \([CIFPA](https://www.google.com/url?q=http://cifpa.aragon.es/joomla1/&sa=D&ust=1511515248803000&usg=AFQjCNGcPa3otHZeCf8f-ozYaHzdDnouqQ)\). Entre otros cometidos se vincula a la red de formación del profesorado para atender a los Centros Integrados de Formación Profesional y al profesorado de Formación Profesional de todo Aragón.
 * **Centro Aragonés de Lenguas Extranjeras para la Educación.**\([CARLEE](https://www.google.com/url?q=https://centrolenguasaragon.wordpress.com/&sa=D&ust=1511515248803000&usg=AFQjCNFBLfXFOkEvkywXSsuKE9HbtBHPPw)\). Su cometido es la formación en competencia y metodologías que capaciten al profesorado para poder impartir programas bilingües en francés e inglés. También se ocupan de la formación del profesorado de inglés en toda la enseñanza no universitaria de Aragón.
 * **Centro Aragonés de Formación para el Profesorado de Enseñanzas Artísticas** \(CAREA\). Es el más incipiente de los proyectos y se ocupa de atender las necesidades formativas del profesorado de enseñanzas artísticas.
 
-** 5\) Los Centros Educativos**. Son parte de la red de formación. Red, base y finalidad de la red.  Y lo son a través de los Planes de Formación y de las personas
+** 6\) Los Centros Educativos**. Son parte de la red de formación. Red, base y finalidad de la red.  Y lo son a través de los Planes de Formación y de las personas
 impulsoras de la formación: el coordinador de formación y el coordinador de formación para el uso de las tecnologías en el aprendizaje de los centros educativos.
 
 **Planes de Formación**. Cada centro elabora, tras un análisis de sus necesidades de formación un plan para desarrollar a lo largo del curso. En ese Plan intervienen toda la Comunidad Educativa y los agentes que intervienen en el Centro Educativo, con la coordinación del CIFE de referencia.

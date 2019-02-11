@@ -2,7 +2,7 @@
 
 Como hemos ya comentado  existe un único registro centralizado para todo Aragón de actividades de formación permanente del profesorado, el NGIFP. En este registro pueden inscribir actividades de formación:
 
-*   Los CIFE. Inscriben las actividades institucionales que organizan y aquellas que se realizan en los Planes de Formación de los centros que tienen adscritos.
+*   Los Centros del Profesorado. Inscriben las actividades institucionales que organizan y aquellas que se realizan en los Planes de Formación de los centros que tienen adscritos.
 *   Los Servicios Provinciales. Inscriben las actividades de determinados programas y las peticiones a instancia de parte.
 *   Los Servicios Centrales. Inscriben las actividades homologadas de las entidades colaboradoras y las que son producto de convenios.
 

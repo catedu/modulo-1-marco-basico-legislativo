@@ -1,6 +1,6 @@
 ## Plan de Formación {#plan-de-formaci-n}
 
-T**odos los centros educativos de la Comunidad Autónoma de Aragón**, públicos y privados concertados, de niveles no universitarios, dependientes del Departamento de Educación, Cultura y Deporte, **deben elaborar su propio Plan de Formación** que estará configurado por las diferentes actuaciones de formación que realice el profesorado del centro. **Dichas actuaciones tendrán lugar, preferentemente, fuera del horario de atención directa a los alumnos excepto aquellas que tengan carácter institucional, convocadas por las administraciones educativas u otras que excepcionalmente puedan ser autorizadas por causas debidamente justificadas.**
+**Todos los centros educativos de la Comunidad Autónoma de Aragón**, públicos y privados concertados, de niveles no universitarios, dependientes del Departamento de Educación, Cultura y Deporte, **deben elaborar su propio Plan de Formación** que estará configurado por las diferentes actuaciones de formación que realice el profesorado del centro. **Dichas actuaciones tendrán lugar, preferentemente, fuera del horario de atención directa a los alumnos excepto aquellas que tengan carácter institucional, convocadas por las administraciones educativas u otras que excepcionalmente puedan ser autorizadas por causas debidamente justificadas.**
 
 El Plan de Formación de Centro recogerá las actuaciones de formación permanente que afecten al profesorado del centro y formará parte de la Programación General Anual y de la Memoria.
 
