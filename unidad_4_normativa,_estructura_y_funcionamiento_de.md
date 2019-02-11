@@ -15,12 +15,8 @@ Departamento competente en materia de educación no universitaria en materia de 
 
 Atendiendo a estas órdenes se elaboran las convocatorias anuales de selección de asesores. El artículo 22 del mencionado Decreto 105/2013 recoge las funciones de los asesores. En la actualidad [estos son los CP territoriales](https://bit.ly/2MXhon2) y las unidades que dependen de ellos:
 
-<iframe src="http://www.educaragon.org/arboles/arbol.asp?guiaeducativa=42&strSeccion=A1A31&lngArbol=1506" width="800" height="2500" align="center">
-
-
-![](/assets/CIFES.png)
-![](/assets/cifes2.png)
-![](/assets/cifes3.png)
+![](/assets/Selección_506.png)
+![](/assets/Selección_507.png)
 
 4\) **Centros de profesorado específicos** y proyectos de formación. Son centros de ámbito autonómico  con un cometido concreto.
 
