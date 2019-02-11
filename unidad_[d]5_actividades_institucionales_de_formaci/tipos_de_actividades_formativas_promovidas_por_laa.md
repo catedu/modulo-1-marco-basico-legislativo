@@ -5,7 +5,7 @@
 *   Son convocadas por los Centros del Profesorado a instancia del Departamento de Educación, Cultura y Deporte.
 *   En algunos casos, la participación en ellas será de carácter obligatorio y en otros, recomendado.
 *   Se designará un solo representante por centro que será el encargado de transmitir la información al resto del profesorado.
-*   Debería ir dirigida a un docente con responsabilidad sobre la organización y gestión de un tema en el centro (orientador, responsable MIA, equipo directivo, etc).
+*   Debería ir dirigida a un docente con responsabilidad sobre la organización y gestión de un tema en el centro (orientador, Coordinadores de formación para el uso de las tecnologías en los aprendizajes en los centros educativos, equipo directivo, etc).
 *   Podrán realizarse en horario de atención directa al alumnado de cada profesor dentro de los límites establecidos en los artículos 6.3 y 6.4 de la Orden de 18 de mayo de 2015.
 *   Preferentemente autonómicas al menos en su organización aunque se puedan desarrollar a nivel provincial.
 *   Ejemplos:Seminario de organización de centros bilingües para equipos directivos. Curso tutores auxiliares de conversación. Curso/seminario equipos directivos. Seminario de Coordinadores de formación para el uso de las tecnologías en los aprendizajes en los centros educativos.

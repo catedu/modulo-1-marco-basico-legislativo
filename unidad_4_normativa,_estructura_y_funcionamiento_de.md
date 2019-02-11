@@ -28,7 +28,7 @@ Atendiendo a estas órdenes se elaboran las convocatorias anuales de selección 
 ** 6\) Los Centros Educativos**. Son parte de la red de formación. Red, base y finalidad de la red.  Y lo son a través de los Planes de Formación y de las personas
 impulsoras de la formación: el coordinador de formación y el coordinador de formación para el uso de las tecnologías en el aprendizaje de los centros educativos.
 
-**Planes de Formación**. Cada centro elabora, tras un análisis de sus necesidades de formación un plan para desarrollar a lo largo del curso. En ese Plan intervienen toda la Comunidad Educativa y los agentes que intervienen en el Centro Educativo, con la coordinación del CIFE de referencia.
+**Planes de Formación**. Cada centro elabora, tras un análisis de sus necesidades de formación un plan para desarrollar a lo largo del curso. En ese Plan intervienen toda la Comunidad Educativa y los agentes que intervienen en el Centro Educativo, con la coordinación del Centro del Profesorado de referencia.
 
 **Coordinadores de Formación. \(COFO\)**.  Sus funciones están delimitadas en el artículo 23 del [DECRETO 166/2018, de 18 de septiembre](https://bit.ly/2SgTskC):
 
