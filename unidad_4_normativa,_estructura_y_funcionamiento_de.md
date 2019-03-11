@@ -23,7 +23,7 @@ Atendiendo a estas órdenes se elaboran las convocatorias anuales de selección 
 | CP Monzón | Fraga y Graus |
 | CPSabiñánigo | Ainsa y Jaca |
 | CP Alcorisa | Alcañiz, Valderrobres y Utrillas |
-| CP Ángel Sanz Briz (Teruel) | CantaviejaCalamochaAlbarracín |
+| CP Ángel Sanz Briz (Teruel) | Cantavieja, Calamocha y Albarracín |
 | CP Calatayud |   |
 | CP Ejea |   |
 | CP Juan De Lanuza (Zaragoza) | Zuera y Borja-Tarazona |
