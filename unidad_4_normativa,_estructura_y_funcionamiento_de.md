@@ -39,8 +39,7 @@ Los Centros del profesorado se regulan por la por el menionado [DECRETO 166/2018
 * **Centro Aragonés de Lenguas Extranjeras para la Educación.**\([CARLEE](https://www.google.com/url?q=https://centrolenguasaragon.wordpress.com/&sa=D&ust=1511515248803000&usg=AFQjCNFBLfXFOkEvkywXSsuKE9HbtBHPPw)\). Su cometido es la formación en competencia y metodologías que capaciten al profesorado para poder impartir programas bilingües en francés e inglés. También se ocupan de la formación del profesorado de inglés en toda la enseñanza no universitaria de Aragón.
 * **Centro Aragonés de Formación para el Profesorado de Enseñanzas Artísticas** \(CAREA\). Es el más incipiente de los proyectos y se ocupa de atender las necesidades formativas del profesorado de enseñanzas artísticas.
 
-** 6\) Los Centros Educativos**. Son parte de la red de formación. Red, base y finalidad de la red.  Y lo son a través de los Planes de Formación y de las personas  
-impulsoras de la formación: el coordinador de formación y el coordinador de formación para el uso de las tecnologías en el aprendizaje de los centros educativos.
+** 6\) Los Centros Educativos**. Son parte de la red de formación. Red, base y finalidad de la red.  Y lo son a través de los Planes de Formación y de las personas impulsoras de la formación: el coordinador de formación y el coordinador de formación para el uso de las tecnologías en el aprendizaje de los centros educativos.
 
 **Planes de Formación**. Cada centro elabora, tras un análisis de sus necesidades de formación un plan para desarrollar a lo largo del curso. En ese Plan intervienen toda la Comunidad Educativa y los agentes que intervienen en el Centro Educativo, con la coordinación del Centro del Profesorado de referencia.
 
