@@ -6,8 +6,6 @@ El sistema aragonés se articula en el [DECRETO 166/2018, de 18 de septiembre, d
 
 En este Decreto además de desarrollar los principios y la finalidad de la formación se plantean  cuestiones sobre la planificación de la misma, la estructura de la red y su funcionamiento.
 
-
-
 En concreto se trata su planificación (artículo 7). Se establecen como instrumento de planificación:
 
 **El Plan Marco Aragonés de Formación del Profesorado.**
