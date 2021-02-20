@@ -15,9 +15,8 @@ Departamento competente en materia de educación no universitaria en materia de 
 
 Las plazas de asesoría y dirección se cubren en comisión de servicios entre las personas que superan un proceso de concurrencia competitiva que se convoca cada año para cubrir las vacantes que resultan.
 
-Los Centros del profesorado se regulan por la por el menionado [DECRETO 166/2018, de 18 de septiembre](https://bit.ly/2SgTskC) y por la [ORDEN ECD/204/2019, de 20 de febrero, por la que se regula la organización y funcionamiento de los Centros de Profesorado territoriales en la Comunidad Autónoma de Aragón](https://bit.ly/2TZii4q). Atendiendo a estas órdenes se elaboran las convocatorias anuales de selección de asesores. . En la actualidad [estos son los CP territoriales](https://bit.ly/2MXhon2) y los equipos territoriales que dependen de ellos:
+Los Centros del profesorado se regulan por la por el menionado [DECRETO 166/2018, de 18 de septiembre](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1040620063232) y por la [ORDEN ECD/204/2019, de 20 de febrero, por la que se regula la organización y funcionamiento de los Centros de Profesorado territoriales en la Comunidad Autónoma de Aragón](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1064002023939). Atendiendo a estas órdenes se elaboran las convocatorias anuales de selección de asesores. . En la actualidad estos son los CP territoriales y los equipos territoriales que dependen de ellos:
 
-![](/assets/Selección_506.png)  
 
 | **Centro de Profesorado** | **Equipos Territoriales que dependen del CP** |
 | --- | --- |
@@ -27,17 +26,17 @@ Los Centros del profesorado se regulan por la por el menionado [DECRETO 166/2018
 | CP Alcorisa | Alcañiz, Valderrobres y Utrillas |
 | CP Ángel Sanz Briz (Teruel) | Cantavieja, Calamocha y Albarracín |
 | CP Calatayud |   |
+| CP La Almunia | Cariñena y Borja-Tarazona  |
 | CP Ejea |   |
-| CP Juan De Lanuza (Zaragoza) | Zuera y Borja-Tarazona |
-| CP María De Ávila (Zaragoza) | Cariñena y Fuentes De Ebro|
+| CP Juan De Lanuza (Zaragoza) | Zuera  |
+| CP María De Ávila (Zaragoza) |  Fuentes De Ebro|
 
 
 5\) **Centros de profesorado específicos** y proyectos de formación. Son centros de ámbito autonómico  con un cometido concreto.
 
 * **Centro Aragonés de Tecnologías para la Educación**. \([CATEDU](https://www.google.com/url?q=http://web.catedu.es/webcatedu/&sa=D&ust=1511515248802000&usg=AFQjCNEKLV_XHnJvSZYHkIfNmUqHmoduMQ)\). Su cometido es dar soporte y asesoramiento tecnológico a la red de formación. Es el centro que organiza la formación online \(Aularagón\)  y otros servicios de soporte al profesorado, como aramoodle, wordpress…
 * **Centro de Innovación para la Formación Profesional de Aragón** \([CIFPA](https://www.google.com/url?q=http://cifpa.aragon.es/joomla1/&sa=D&ust=1511515248803000&usg=AFQjCNGcPa3otHZeCf8f-ozYaHzdDnouqQ)\). Entre otros cometidos se vincula a la red de formación del profesorado para atender a los Centros Integrados de Formación Profesional y al profesorado de Formación Profesional de todo Aragón.
-* **Centro Aragonés de Lenguas Extranjeras para la Educación.**\([CARLEE](https://www.google.com/url?q=https://centrolenguasaragon.wordpress.com/&sa=D&ust=1511515248803000&usg=AFQjCNFBLfXFOkEvkywXSsuKE9HbtBHPPw)\). Su cometido es la formación en competencia y metodologías que capaciten al profesorado para poder impartir programas bilingües en francés e inglés. También se ocupan de la formación del profesorado de inglés en toda la enseñanza no universitaria de Aragón.
-* **Centro Aragonés de Formación para el Profesorado de Enseñanzas Artísticas** \(CAREA\). Es el más incipiente de los proyectos y se ocupa de atender las necesidades formativas del profesorado de enseñanzas artísticas.
+* **Centro Aragonés de Lenguas Extranjeras para la Educación.**\([CARLEE](https://www.carleearagon.es)\). Su cometido es la formación en competencia y metodologías que capaciten al profesorado para poder impartir programas bilingües en francés e inglés. También se ocupan de la formación del profesorado de inglés en toda la enseñanza no universitaria de Aragón.
 
 ** 6\) Los Centros Educativos**. Son parte de la red de formación. Red, base y finalidad de la red.  Y lo son a través de los Planes de Formación y de las personas impulsoras de la formación: el coordinador de formación y el coordinador de formación para el uso de las tecnologías en el aprendizaje de los centros educativos.
 
