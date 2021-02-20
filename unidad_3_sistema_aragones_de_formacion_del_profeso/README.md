@@ -2,7 +2,7 @@
 
 El actual sistema aragonés de formación del profesorado se encuentra actualmente en revisión. No obstante, lo que toca es analizar el sistema actual y apuntar hacia donde pueden ir los cambios.
 
-El sistema aragonés se articula en el [DECRETO 166/2018, de 18 de septiembre, del Gobierno de Aragón, por el que se regula la formación del profesorado de enseñanzas no universitarias que presta sus servicios en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Aragón](https://bit.ly/2SgTskC).
+El sistema aragonés se articula en el [DECRETO 166/2018, de 18 de septiembre, del Gobierno de Aragón, por el que se regula la formación del profesorado de enseñanzas no universitarias que presta sus servicios en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Aragón](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1040620063232).
 
 En este Decreto además de desarrollar los principios y la finalidad de la formación se plantean  cuestiones sobre la planificación de la misma, la estructura de la red y su funcionamiento.
 
