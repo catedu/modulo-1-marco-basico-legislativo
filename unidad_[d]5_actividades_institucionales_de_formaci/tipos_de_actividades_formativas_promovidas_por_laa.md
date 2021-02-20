@@ -1,11 +1,13 @@
 ## Tipos de actividades formativas promovidas por la Administración Educativa {#tipos-de-actividades-formativas-promovidas-por-la-administraci-n-educativa}
 
+Los diferentes tipos de actividades formativas promovidas por la Administración Educativa son los siguientes:
+
 **1\. Institucionales**
 
 *   Son convocadas por los Centros del Profesorado a instancia del Departamento de Educación, Cultura y Deporte.
 *   En algunos casos, la participación en ellas será de carácter obligatorio y en otros, recomendado.
 *   Se designará un solo representante por centro que será el encargado de transmitir la información al resto del profesorado.
-*   Debería ir dirigida a un docente con responsabilidad sobre la organización y gestión de un tema en el centro (orientador, Coordinadores de formación para el uso de las tecnologías en los aprendizajes en los centros educativos, equipo directivo, etc).
+*   Podría ir dirigida a un docente con responsabilidad sobre la organización y gestión de un tema en el centro (orientador, Coordinadores de formación para el uso de las tecnologías en los aprendizajes en los centros educativos, equipo directivo, etc).
 *   Podrán realizarse en horario de atención directa al alumnado de cada profesor dentro de los límites establecidos en los artículos 6.3 y 6.4 de la Orden de 18 de mayo de 2015.
 *   Preferentemente autonómicas al menos en su organización aunque se puedan desarrollar a nivel provincial.
 *   Ejemplos:Seminario de organización de centros bilingües para equipos directivos. Curso tutores auxiliares de conversación. Curso/seminario equipos directivos. Seminario de Coordinadores de formación para el uso de las tecnologías en los aprendizajes en los centros educativos.
@@ -14,7 +16,7 @@
 
 *   Son necesarias para el correcto desarrollo del programa.
 *   Sus características se concretan en la convocatoria del programa.
-*   Son convocadas por los Centros del Profesorado a instancia del Departamento de Educación, Cultura y Deporte.Con carácter general, son obligatorias para el profesorado participante en el programa, por lo que el centro debe incluirlas en su plan de formación anual.
+*   Son convocadas por los Centros del Profesorado a instancia del Departamento de Educación, Cultura y Deporte. Con carácter general, son obligatorias para el profesorado participante en el programa, por lo que el centro debe incluirlas en su plan de formación anual.
 *   Podrán realizarse en horario de atención directa al alumnado de cada profesor dentro de los límites establecidos en los artículos 6.3 y 6.4 de la Orden de 18 de mayo de 2015.
 *   Ejemplos: Ajedrez en la escuela, Coros Escolares, Aprender a Emprender.
 
@@ -30,3 +32,7 @@ Aquellas entidades que lo sean sin ánimo de lucro y tengan entre sus estatutos 
 5\. **Actividades de los Planes de Formación del Centro.**
 
 Por último, pero no por ello menos importante, las actividades que se realizan en los centros en el desarrollo del Plan de Formación del Centro. Cada año se realiza una detección de necesidades en el centro para realizar el Plan de Formación. En caso de que algunos centros concurran en idénticas necesidades los Centros del Profesorado realizan actividades intercentros para optimizar recursos.
+
+Sobre el horario de las actividades institucionales, conviene conocer que según el Artículo 2 punto 5 del [DECRETO 166/2018](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1040620063232)
+
+_La formación del profesorado tendrá lugar, con carácter general, fuera del horario de atención directa a los alumnos. Se podrán realizar también acciones formativas en horario de atención directa al alumnado cuando sean actividades de obligada asistencia, por tratarse de formación en función del cargo ocupado o por exigencias organizativas porque la naturaleza de la actividad lo requiera, como las estancias formativas o programas específcos implantados por la Administración._
