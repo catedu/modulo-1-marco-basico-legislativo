@@ -6,11 +6,17 @@ Como hemos ya comentado  existe un único registro centralizado para todo Aragó
 *   Los Servicios Provinciales. Inscriben las actividades de determinados programas y las peticiones a instancia de parte.
 *   Los Servicios Centrales. Inscriben las actividades homologadas de las entidades colaboradoras y las que son producto de convenios.
 
-La normativa que regula actualmente la certificación y registro de las actividades formativas es la [ORDEN](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D859076685454&sa=D&ust=1511515248819000&usg=AFQjCNH7tUu582UtB6l7X0pAwyE_IQ3JRw) de 18 de mayo de 2015 (BOA 9/06) por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado, modificada por [ORDEN ECD/1988/2016](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D943762422424&sa=D&ust=1511515248820000&usg=AFQjCNHVmblp64keDhxJCCf87F4e0tk3-g)  Anteriormente existía normativa únicamente normativa nacional. Sus principales características son:
+La normativa que regula actualmente la certificación y registro de las actividades formativas es la [ORDEN ECD/579/2019](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1075712023131), de 7 de mayo, por la que se regula la convocatoria, reconocimiento, certifcación y registro de las actividades de formación permanente del profesorado no universitario.
 
-*   Se extiende la formación del profesorado no sólo al profesorado sino a toda la Comunidad Escolar y a todo agente que tenga relación con la misma.
-*   Define las formas de participación y sus características: Presenciales, en red y mixtas.
-*   Define las modalidades de acción formativas y sus requisitos: Cursos, seminarios, grupos de trabajo.
-*   Define el registro de las actividades de formación permanente del profesorado tanto de oficio como a solicitud del interesado.
-*   Define la relación con las entidades colaboradoras y abre la posibilidad de establecer convenios en materia de formación.
+En ella, en su artículo 3 se define el concepto de "formación permanente del profesorado no universitario":
 
+  Artículo 3. Concepto de formación permanente del profesorado no universitario.
+
+  1. Se considera formación permanente del profesorado no universitario el conjunto de actuaciones y actividades dirigidas al profesorado de enseñanzas no universitarias encaminadas al perfeccionamiento, la actualización y la mejora continua en el desempeño de sus funciones y el desarrollo de las competencias profesionales y personales.
+  2. La formación del profesorado se concibe como un derecho y un deber de todo el profesorado y una responsabilidad de la Administración Educativa y de los propios centros.
+ 
+ Son particularmente importantes los Artículos 7 a 11 que desarrollan los detalles de las diferentes Actividades de formación del profesorado tales como las características (Art 8), las formas de participación (Art 9) y las Modalidades de acciones formativas (Art 10) y los Tipos de participación (Art 11)
+ 
+ *NOTA: La lectura de los Artículos 7 a 11 de esta [ORDEN ECD/579/2019](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1075712023131) forma parte de los contenidos obligatorios de este curso por lo que puede aparece su contenido en el test de evaluación*.
+ 
+ 
