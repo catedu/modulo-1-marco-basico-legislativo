@@ -7,7 +7,7 @@ El Decreto define las funciones del Sr. Consejero, en la actualidad Felipe Faci 
  
 * Dirección General de Innovación y Formación Profesional \(DG.: Antonio Martínez Ramos\)
 * Dirección General de Planificación y Equidad \(DG. Ana Montagud\)
-* Dirección General de Personal \(DG.: Carmen Martínez Urtasun\)
+* Dirección General de Personal \(DG.: Olga Alastruey Alpín\)
  
 La red de formación y su gestión depende de la Dirección General de Innovación y Formación Profesional.
  
