@@ -13,7 +13,7 @@ La red de formación y su gestión depende de la Dirección General de Innovaci�
  
 Cada Dirección General tiene varios “Servicios”. En concreto la red de formación depende del Servicio de Innovación y Formación del Profesorado \(JS.: Gustavo Arce\). 
 
-Este Servicio está bajo la dirección inmediata del Director General de Innovación y Formación Profesional y corresponde a este Servicio la actualización y mejora continua de la cualificación profesional del personal docente, la coordinación y apoyo a los Centros de Profesores y Recursos, su evaluación y las propuestas de selección de sus directores y asesores de formación así como la colaboración en la propuesta de la formación inicial del futuro profesorado de infantil, primaria y secundaria.”
+Este Servicio está bajo la dirección inmediata del Director General de Innovación y Formación Profesional y corresponde a este Servicio la actualización y mejora continua de la cualificación profesional del personal docente, la coordinación y apoyo a los Centros de Profesorado, su evaluación y las propuestas de selección de sus directores y asesores de formación así como la colaboración en la propuesta de la formación inicial del futuro profesorado de infantil, primaria y secundaria.”
  
 En el Servicio de Formación del Profesorado, además del Jefe de Servicio, hay un equipo formado por un Jefe de Unidad, que es también el Jefe del Registro de Actividades Formativas, un número no definido normativamente de asesorías, una Jefa de Negociado y una administrativa.
  
