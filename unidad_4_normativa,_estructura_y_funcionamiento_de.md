@@ -66,7 +66,7 @@ Los Centros del profesorado se regulan por la por el menionado [DECRETO 166/2018
 
 En función de las Instrucciones de Organización y Funcionamiento de cada etapa educativa se establece la compensación horaria del Coordinador de Formación en la misma y el desempeño del cargo se recoge como mérito en determinados procesos en concurrencia competitiva.. En los Institutos de Enseñanza Secundaria, además, son los Jefes del Departamento de Innovación y Formación Educativa según la [ORDEN ECD/401/2016](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D907182863636&sa=D&ust=1511515248805000&usg=AFQjCNHf7fsmVUV63z8wHKjTItlwy8DDng).
 
-**El coordinador de formación para el uso de las tecnologías en los aprendizajes en los centros educativos **
+**El coordinador de formación para el uso de las tecnologías en los aprendizajes en los centros educativos**
 
 Sus funciones están delimitadas en el artículo 26 del [DECRETO 166/2018, de 18 de septiembre](https://profesoradocalatayud.catedu.es/wp-content/uploads/sites/312/2018/10/decreto-de-formacion.pdf):
 
