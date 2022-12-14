@@ -68,7 +68,7 @@ En función de las Instrucciones de Organización y Funcionamiento de cada etapa
 
 **El coordinador de formación para el uso de las tecnologías en los aprendizajes en los centros educativos **
 
-Sus funciones están delimitadas en el artículo 26 del [DECRETO 166/2018, de 18 de septiembre](https://bit.ly/2SgTskC):
+Sus funciones están delimitadas en el artículo 26 del [DECRETO 166/2018, de 18 de septiembre](https://profesoradocalatayud.catedu.es/wp-content/uploads/sites/312/2018/10/decreto-de-formacion.pdf):
 
 1. Recoger las necesidades de formación detectadas en el centro relacionadas con las
    competencias del profesorado en el uso de las Tecnologías aplicadas al aprendizaje y trasladarlas a través de la Dirección del centro educativo, a la Red de Formación, en concreto a su Centro de Profesorado de referencia.
